@@ -2,7 +2,7 @@
 
 **Laurent Hardy** | **Rubén Muñoz**
 
-*This document is not meant to be an exhaustive technical explanation but a way to start a conversion about the project with the community about how personal data is controlled, what it is used for, how it could shorter the path towards self consciousness, and how it could revive the digital economy for the people of the XXIst century.*
+*This document is not meant to be an exhaustive technical explanation but a way to start a conversation about the project with the community about how personal data is controlled, what it is used for, how it could shorter the path towards self consciousness, and how it could revive the digital economy for the people of the XXIst century.*
 
 ## The problem
 
@@ -43,7 +43,7 @@ The results of our extracting economy is that ownership and secrecy around perso
 
 ### Stagnation of centralised innovation
 
-Digital platforms extract data from their users, store it in silos, then use it to build digital profile on their users, which are then used to target commercial content to them via a feed mechanism. This process generates incomes on the order of XXX billion dollar per year because the entire supply chain is controlled by the same company. The more aspects of the supply chain it controls, the more money can be made. That's why we see digital platforms adding new "features" all the time. This is the way the control over the supply chain keeps increasing. No other entity but the company has access to the internal mechanics of the digital platform, therefore innovation can only happen inside of the company that created the platform in the first place (this actually holds true for every centralised industry, see [The Internet of Money](https://antonopoulos.com/books/)).
+Digital platforms extract data from their users, store it in silos, then use it to build digital profile on their users, which are then used to target commercial content to them via a feed mechanism. This process generates incomes on the order of [70 billion dollar per year in the US alone](http://www.businessinsider.com/online-ads-revenues-going-to-google-and-facebook-the-most-2017-4), because the entire supply chain is controlled by the same company. The more aspects of the supply chain it controls, the more money can be made. That's why we see digital platforms adding new "features" all the time. This is the way the control over the supply chain keeps increasing. No other entity but the company has access to the internal mechanics of the digital platform, therefore innovation can only happen inside of the company that created the platform in the first place (this actually holds true for every centralised industry, see [The Internet of Money](https://antonopoulos.com/books/)).
 
 ### Are there any benefit?
 
