@@ -143,23 +143,30 @@ Finally, the **governance model** around which the collaboration is going to be 
 
 We have identified four key components for ARCADIA to exist: WAREHOUSE, PROFILE, KNOWLEDGE, and ECONOMICS.
 
-1. **Data warehouse**
-  1. Uploading data
-  2. Storing data
-  3. Using data
-2. **Your digital profile**
-  1. From raw data to personality
-  2. Data visualisation
-  3. Data do not leave your profile
-3. **The knowledge machine**
-  1. Players, roles, and interactions
-  2. Working with personal data
-  3. Characteristics as building blocks
-  4. The ground truth
-4. **The foundations of the underlying economics**
-  1. Why using cryptocurrencies?
-  2. Quality over quantity
-  3. Put a price on your data
+#### Data warehouse
+
+1. Uploading data
+2. Storing data
+3. Using data
+
+#### Your digital profile
+
+1. From raw data to personality
+2. Data visualisation
+3. Data do not leave your profile
+
+#### The knowledge machine
+
+1. Players, roles, and interactions
+2. Working with personal data
+3. Characteristics as building blocks
+4. The ground truth
+
+#### The foundations of the underlying economics
+
+1. Why using cryptocurrencies?
+2. Quality over quantity
+3. Put a price on your data
 
 ### How to build a digital profile
 
