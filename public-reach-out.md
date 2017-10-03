@@ -1,6 +1,6 @@
 # Making the case for ARCADIA
 
-**Laurent Hardy, Rubén Muñoz**
+**Laurent Hardy** | **Rubén Muñoz**
 
 *This document is not meant to be an exhaustive technical explanation but a way to start a conversion about the project with the community about how personal data is controlled, what it is used for, how it could shorter the path towards self consciousness, and how it could revive the digital economy for the people of the XXIst century.*
 
@@ -17,7 +17,7 @@ This leap forward didn't come for free: *web2* was built by companies. The way t
 There's an important distinction between data by itself and what you can learn from the data (i.e. the process of creating knowledge). The companies that built *web2* didn't start selling personal data, they started learning about their users. By the time they knew them well enough, they had built a elaborated digital profile about every user. They could then leverage that knowledge to their own benefit by offering a platform to companies that wish to target products and services to specific groups of users with a particular interests or profile. The reasoning behind is that a particular profile previously identified is the most likely to buy into their products and services. The return on click metrics was born.
 
 The real advantage for companies leveraging data about their users is in the combination of three elements:
-* A digital platform with some utility to its users 
+* A digital platform with some utility to its users
 * Monthly active users who create data by using the platform
 * A digital profile fed by the data the user generates by using the platform and the interpretation of data scientists.
 
@@ -33,17 +33,13 @@ Therefore the fundamental objective of the platform comes down to increasing the
 
 It is important to note that as a result, the focus of digital business platforms has moved. Resources went from developing breakthrough services with fundamentally new features that enhance the life of users, toward capturing more of the attention of the users, [whatever it takes](https://youtu.be/HBRLMoL_vTQ).
 
-The competitive advantage of platforms which goal is to extract value from their users is the database and the infrastructure of intelligence. They assume the responsibilities of storing the data (and respect their privacy if they want to) and ensure the security of the infrastructure of storage. They need to have access to the data if they wish to make a profit, but they can't afford to have others, let alone users, accessing the data, to the risk of loosing their advantage. 
+The competitive advantage of platforms which goal is to extract value from their users is the database and the infrastructure of intelligence. They assume the responsibilities of storing the data (and respect their privacy if they want to) and ensure the security of the infrastructure of storage. They need to have access to the data if they wish to make a profit, but they can't afford to have others, let alone users, accessing the data, to the risk of loosing their advantage.
 
 The meaning of online activities of the user such as blogging, text messaging, posting, buying and selling, updating profile and status is of little importance. Rather, activities are the excuse to have users generate and interact with different types of content, as varied as possible, in order to construct their profile at a granular level.
 
-Users seem to like it: we spend [more and more time](http://www.adweek.com/digital/mediakix-time-spent-social-media-infographic/) in front of our screen. There's no real incentive to provide more useful services; and no real incentive to let others do it neither. The only way forward seems to be to keep extracting value from users and excluding them from the comercial exchange where money is being made (see [Throwing Rocks At The Google Bus](http://www.rushkoff.com/books/throwing-rocks-at-the-google-bus/) by Douglas Rushkoff for a detail analysis of the current digital economy).
+Users seem to like it: we spend [more and more time](http://www.adweek.com/digital/mediakix-time-spent-social-media-infographic/) in front of our screen. There's no real incentive to provide more useful services; and no real incentive to let others do it neither. The only way forward seems to be to keep extracting value from users and excluding them from the commercial exchange where money is being made (see [Throwing Rocks At The Google Bus](http://www.rushkoff.com/books/throwing-rocks-at-the-google-bus/) by Douglas Rushkoff for a detail analysis of the current digital economy).
 
 The results of our extracting economy is that ownership and secrecy around personal data have favoured the formation of silos of data between companies. Data –from the most trivial to the most sensitive– is locked in lots of different services with no way of accessing it, deciding what it can be used for, or collecting a share of the incomes it might generate.
-
-### Trust is not all about free stuff
-
-We trust the companies behind digital platforms because they give everything for free.
 
 ### Stagnation of centralised innovation
 
@@ -51,12 +47,12 @@ Digital platforms extract data from their users, store it in silos, then use it 
 
 ### Are there any benefit?
 
-It appears to be the case that the users' online activity is in itself the raw material digital platforms extract value from through a more or less complex ad selling machine. As users, we're left with a free tool that allows us to spend time on, as we're not allowed to share some of the revenue our data generates. 
+It appears to be the case that the users' online activity is in itself the raw material digital platforms extract value from through a more or less complex ad selling machine. As users, we're left with a free tool that allows us to spend time on, as we're not allowed to share some of the revenue our data generates.
 
 Under this model, time became the [scarce commodity](https://youtu.be/0K5OO2ybueM) every business tries to capture –especially since the booming of social media–, which in turn, created a fierce [competition for our attention](https://journal.thriveglobal.com/its-time-to-redesign-the-attention-economy-f9215a2210be). A competition that will last, probably [forever](https://soundcloud.com/consensys/state-change-43-the-battle-for).
 
 A legitimate question to ask ourselves at this point is whether the business model of digital platforms, as it is configured today, really serves the people's interest? Without running the achievements of the construction of the social layer of internet down, it looks like the benefits don't always surpass the disadvantages.
-* Our limited available [time gets eaten up](https://youtu.be/0K5OO2ybueM). 
+* Our limited available [time gets eaten up](https://youtu.be/0K5OO2ybueM).
 * Local economic activity is progressively replaced by [online marketplaces](https://youtu.be/mAOyOULWKUo).
 * Social media get to know us better than our relatives according to some [research](http://www.pnas.org/content/112/4/1036.abstract).
 
@@ -84,19 +80,19 @@ Full control over your personal data (access and storage) is similar to a person
 
 ### Augmented digital economy
 
-The moment users have full control over their data (access and storage), silos of data will start to break. Data will then be able to travel outside of where they are stored and escape from the control of the platform on which they have been created. 
+The moment users have full control over their data (access and storage), silos of data will start to break. Data will then be able to travel outside of where they are stored and escape from the control of the platform on which they have been created.
 
 This emancipation of the data does not mean that whoever wants to gain access to personal data will be able to do so without any restriction. It just means that now the user has the option to decide if it's ok to let someone or a company have access to her data. The user can ask herself if it is really worthwhile or if she would rather remain private about her data. On the other hand, this also means that companies that wish to use personal data will have to earn it from the users, and probably compete for them.
 
 We see the digital economy evolving to a much more distributed workforce but the problem remains that raw materials and tools are still in the hands of a few very large companies.
 
-Barriers to entry to business models that revolve around personal data are generally considered high industries like social media, data broker, banking, digital services, etc. This is the case mainly because, as we have said earlier in the section "Stagnation of centralised innovation", the focus in those industries has been secrecy and confidentiality around silos of data. For them, it doesn't make sense to share the developments made by exploring personal data. Algorithms must remain private because algorithms are what differentiate one platform from another and therefore they are the mean by which personal data are exploited economically. 
+Barriers to entry to business models that revolve around personal data are generally considered high industries like social media, data broker, banking, digital services, etc. This is the case mainly because, as we have said earlier in the section "Stagnation of centralised innovation", the focus in those industries has been secrecy and confidentiality around silos of data. For them, it doesn't make sense to share the developments made by exploring personal data. Algorithms must remain private because algorithms are what differentiate one platform from another and therefore they are the mean by which personal data are exploited economically.
 
 Data becomes a commodity when users control their data. And the purpose of improving algorithms switch from extracting value from the user to seeking the best interpretation of the data to gain knowledge –a path to [data humanism](https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb). As a consequence, a lot more people with new ideas will have access to the same tools that were once the privilege of a few dominant companies. And this is where **social innovation** will really starts.
 
 ### A path toward self-consciousness
 
-The XXIst century will hopefully be the century of self-consciousness. A time of realisation that we take too many things for granted, like [education](https://youtu.be/iG9CE55wbtY); that we don't take the time to know ourselves enough; that despite better communication technologies we actually interact less with one another, we are less and less informed about the people we live with; or that there's a growing misalignment of expectations between people and companies (Simon Sinek on [Millennials in the Workplace](https://youtu.be/hER0Qp6QJNU)). 
+The XXIst century will hopefully be the century of self-consciousness. A time of realisation that we take too many things for granted, like [education](https://youtu.be/iG9CE55wbtY); that we don't take the time to know ourselves enough; that despite better communication technologies we actually interact less with one another, we are less and less informed about the people we live with; or that there's a growing misalignment of expectations between people and companies (Simon Sinek on [Millennials in the Workplace](https://youtu.be/hER0Qp6QJNU)).
 
 > The problem of taking things for granted of course is that because we take them for granted we don't realise that we do (Sir Ken Robinson).
 
@@ -120,11 +116,11 @@ In this new paradigm, it is fundamental to understand that **data is not scarce 
 
 ## What is the strategy to solve it?
 
-***Note from the authors**. This is the first of several articles that will be published. We have been working on path to a possible solution for building the new paradigm. Although more detailed information could be released, we would like to evaluate first, with the help of the community, if this appeals to people, if we didn't make mistakes in our hypotheses to validate the potential of this project, and if this introduction to the solution for building the new paradigm resonates with what the developer community knows better than we do. Your feedback will be much appreciated. Thanks.* 
+***Note from the authors***. *This is the first of several articles that will be published. We have been working on path to a possible solution for building the new paradigm. Although more detailed information could be released, we would like to evaluate first, with the help of the community, if this appeals to people, if we didn't make mistakes in our hypotheses to validate the potential of this project, and if this introduction to the solution for building the new paradigm resonates with what the developer community knows better than we do. Your feedback will be much appreciated. Thanks.*
 
 ### The team and the collaboration
 
-To develop the core technologies, we are going to need a clean environment exempt from pressures originating from the necessity to be profitable. This is a challenge most open source projects endure, but with the advent of [blockchain](http://www.usv.com/blog/fat-protocols), a solution is starting to emerge. That being said, we cannot forget that the objective is to build the pillars of a new digital economy for personal data, therefore we cannot forget that it has to be profitable at some point. 
+To develop the core technologies, we are going to need a clean environment exempt from pressures originating from the necessity to be profitable. This is a challenge most open source projects endure, but with the advent of [blockchain](http://www.usv.com/blog/fat-protocols), a solution is starting to emerge. That being said, we cannot forget that the objective is to build the pillars of a new digital economy for personal data, therefore we cannot forget that it has to be profitable at some point.
 
 For this reason, we have divided the project into two separate entities: ARCADIA (a foundation, non-for profit) and SEEMPLR (a company, for profit).
 * **ARCADIA FOUNDATION** will be responsible of developing the core technology, ARCADIA, including but not limited to the digital warehouse infrastructure, the governance model, the economic model, and the intelligence infrastructure.
@@ -174,15 +170,15 @@ To build someone's profile is to make a statement about who you think that perso
 
 Digital profile is not limited to a fixed number of elements that can be included, unlike personality. But we still need a structure to organise all those elements. [Traits theory](https://www.khanacademy.org/test-prep/mcat/behavior/theories-personality/v/trait-theory) could help us define what the digital profile might be. Four basic models have been suggested: [Allport](https://en.wikipedia.org/wiki/Gordon_Allport#Allport.27s_trait_theory), [Cattell](https://en.wikipedia.org/wiki/16PF_Questionnaire), [Big Five](https://en.wikipedia.org/wiki/Big_Five_personality_traits), and [Eysenk](https://en.wikipedia.org/wiki/Eysenck_Personality_Questionnaire). Currently, the Big Five and the Eysenk models are the two most popular ones. But what they all have in common is a tree of traits that are combined together to give an interpretation of the general personality of a human being. Therefore we would suggest the following structure to organise the data around a **new dedicated model** for the digital profile.
 
-![](images/perfil-digital.png)
+> DATA > VARIABLES > CHARACTERISTICS > FACETS > PERSONALITY
 
-A key element of the digital profile for ARCADIA is going to be the **characteristic**. A community of developers is going to be incentivised to create new characteristics and to make existing ones better. A characteristic is an algorithm that takes data as input, treats in a certain way and return an output as a result. One characteristic applies to each user but the output for each user will be different, because the data that feeds the characteristic will be different. Users should be interested in using characteristics to understand and visualise patterns, habits, preferences, achievements or mistakes in their own lives. 
+A key element of the digital profile for ARCADIA is going to be the **characteristic**. A community of developers is going to be incentivised to create new characteristics and to make existing ones better. A characteristic is an algorithm that takes data as input, treats in a certain way and return an output as a result. One characteristic applies to each user but the output for each user will be different, because the data that feeds the characteristic will be different. Users should be interested in using characteristics to understand and visualise patterns, habits, preferences, achievements or mistakes in their own lives.
 
-Characteristics are elements with a one level of abstraction from the data. They don't say much but they say enough for them to be used in different contexts. This means that characteristics must be representative of the population of users. To verify that this is actually the case, users should have a way to recognise the validity (or the non validity) of one particular characteristic. Examples of characteristics are: risk aversion, distribution of values, work balance in life, etc. 
+Characteristics are elements with a one level of abstraction from the data. They don't say much but they say enough for them to be used in different contexts. This means that characteristics must be representative of the population of users. To verify that this is actually the case, users should have a way to recognise the validity (or the non validity) of one particular characteristic. Examples of characteristics are: risk aversion, distribution of values, work balance in life, etc.
 
 > Looking at one of her characteristics, users should feel like they are looking in the mirror and recognise an aspect of their appearance. It should be that familiar.
 
-Characteristics are self-explanatory: they include not only the data, but also the context in which the data has been generated, the interpretation of developers and the validation of the users. Characteristics should therefore be what users may want to share. The data that feeds into a characteristic will never leave the user's data warehouse. 
+Characteristics are self-explanatory: they include not only the data, but also the context in which the data has been generated, the interpretation of developers and the validation of the users. Characteristics should therefore be what users may want to share. The data that feeds into a characteristic will never leave the user's data warehouse.
 
 Characteristics are then combined into *facets*, which for now are somewhat arbitrary categories that represent aspects of our life. Examples of *facets* include health, work, leisure, etc. Finally, the way *facets* are visualised together gives place to the user's *personality*.
 
@@ -200,19 +196,19 @@ Services developed by *companies* will be able to plug into ARCADIA and make use
 
 ### A workflow for value creation
 
-Governance defines a set of rules and parameters for all the parties involved to collaborate. Those rules and parameters can be voted on if they need to be adjusted in the future, or they are defined only once if they are considered ground rules. In the context of decentralised blockchain applications, governance is also the place where economic incentives are adjusted so that the participants can exploit the system at their own advantage without putting others or the system at risk. 
+Governance defines a set of rules and parameters for all the parties involved to collaborate. Those rules and parameters can be voted on if they need to be adjusted in the future, or they are defined only once if they are considered ground rules. In the context of decentralised blockchain applications, governance is also the place where economic incentives are adjusted so that the participants can exploit the system at their own advantage without putting others or the system at risk.
 
-In terms of governance, it is paramount for the development of ARCADIA to increase the complexity of interactions and funcionalities slowly over time, so that the probability of making mistakes can be kept as low as possible.
+In terms of governance, it is paramount for the development of ARCADIA to increase the complexity of interactions and functionalities slowly over time, so that the probability of making mistakes can be kept as low as possible.
 
-The first situation the governance model has to deal with is the level of participation from users and developers so that enough quality characteristics are being built. Here is an example of how the system might be gamed: because nobody but the user has access to the data, the user might decide to upload data that is not what the user says it is. And here is another: because nobody but the developer has access to the code of the characteristics, a developer, in order to get the royalties for herself, might decide to upload a piece of code that is not actually better than the previous one. We could also imagine a scenario where the users don't check that the characteristics actually reflect an aspects of their life, just to maximise their gain. Another scenario would be that some users and developers decide to collude together in order to increase their respective gains, at the detriment of the quality of the characteristics a well intentioned user or a client of ARCADIA would get. 
+The first situation the governance model has to deal with is the level of participation from users and developers so that enough quality characteristics are being built. Here is an example of how the system might be gamed: because nobody but the user has access to the data, the user might decide to upload data that is not what the user says it is. And here is another: because nobody but the developer has access to the code of the characteristics, a developer, in order to get the royalties for herself, might decide to upload a piece of code that is not actually better than the previous one. We could also imagine a scenario where the users don't check that the characteristics actually reflect an aspects of their life, just to maximise their gain. Another scenario would be that some users and developers decide to collude together in order to increase their respective gains, at the detriment of the quality of the characteristics a well intentioned user or a client of ARCADIA would get.
 
-Global parameters for ARCADIA will be part of the governance model to adjust the economic incentives or the requirements for performing certain activities in ARCADIA. 
+Global parameters for ARCADIA will be part of the governance model to adjust the economic incentives or the requirements for performing certain activities in ARCADIA.
 
 The voting mechanism for executing the governance model should also be extremely well adapted to ARCADIA. If governance power were to be proportional to the amount of token one individual has, large investors might bring the system down by behaving irrationally or even voluntarily.
 
 ## Let's try to kill the idea
 
-*There are still plenty of uncertainties that could prevent the project to work. Here is a list of reasons for why it might not be possible. We are going to explore possible solutions to overcome them in later publications.*
+*There are still plenty of uncertainties that could prevent the project from working. Here is a preliminary list of specific reasons for why it might not be possible to make it work. We are going to explore possible solutions to overcome those in a later article.*
 
 ### From a technical standpoint
 
