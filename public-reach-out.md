@@ -2,7 +2,7 @@
 
 **Laurent Hardy** | **Rubén Muñoz**
 
-*This document is not meant to be an exhaustive technical explanation but a way to start a conversation about the project with the community about how personal data is controlled, what it is used for, how it could shorter the path towards self consciousness and how it could revive the digital economy for the people of the XXIst century.*
+*This document is not meant to be an exhaustive technical explanation but a way to start a conversation about the project with the community about how personal data is controlled, what it is used for, how it could shorter the path towards self consciousness and how it could revive the digital economy for the people of the 21st century.*
 
 ## The problem
 
@@ -92,7 +92,7 @@ Data becomes a commodity when users control their data. And the purpose of impro
 
 ### A path toward self-consciousness
 
-The XXIst century will hopefully be the century of self-consciousness. A time of realisation that we take too many things for granted, like [education](https://youtu.be/iG9CE55wbtY); that we don't take the time to know ourselves enough; that despite better communication technologies we actually interact less with one another, we are less and less informed about the people we live with; or that there's a growing misalignment of expectations between people and companies (Simon Sinek on [Millennials in the Workplace](https://youtu.be/hER0Qp6QJNU)).
+The 21st century will hopefully be the century of self-consciousness. A time of realisation that we take too many things for granted, like [education](https://youtu.be/iG9CE55wbtY); that we don't take the time to know ourselves enough; that despite better communication technologies we actually interact less with one another, we are less and less informed about the people we live with; or that there's a growing misalignment of expectations between people and companies (Simon Sinek on [Millennials in the Workplace](https://youtu.be/hER0Qp6QJNU)).
 
 > The problem of taking things for granted of course is that because we take them for granted we don't realise that we do (Sir Ken Robinson).
 
@@ -118,7 +118,7 @@ In this new paradigm, it is fundamental to understand that **data is not scarce 
 
 ***Note from the authors***. *This is the first of several articles that will be published. We have been working on path to a possible solution for building the new paradigm. Although more detailed information could be released, we would like to evaluate first, with the help of the community, if this appeals to people, if we didn't make mistakes in our hypotheses to validate the potential of this project and if this introduction to the solution for building the new paradigm resonates with what the developer community knows better than we do. Your feedback will be much appreciated. Thanks.*
 
-### The team and the collaboration
+### Team and collaboration
 
 To develop the core technologies, we are going to need a clean environment exempt from pressures originating from the necessity to be profitable. This is a challenge most open source projects endure, but with the advent of [blockchain](http://www.usv.com/blog/fat-protocols), a solution is starting to emerge. That being said, we cannot forget that the objective is to build the pillars of a new digital economy for personal data, therefore we cannot forget that it has to be profitable at some point.
 
@@ -135,7 +135,7 @@ We have identified 4 types of actors who will participate and interact with Arca
 3. **COMPANIES**. They are service providers. They want to provide services to their clients that requires access to the user's data, involve building a relationship with the users, or involve having them actively participate in some way. They want to build new tools to use Arcadia. They need the approval of the users to actually sell their services. They have interests in building and maintaining good relationships with users, more than with their clients.
 4. **CLIENTS**. They have questions that can be better answered with the help of the users. They may have customers who are users of Arcadia and want to know if they are satisfied. They want to close deals with users through a service one of the COMPANY offers in exchange for the use of the users' data.
 
-### The key technologies and components
+### Key technologies and components
 
 We believe the only way **trust** can be regained from the way personal data was handled in the old paradigm is by progressively decentralising every aspect of the underlying infrastructure. Both for technical and economic reasons, **blockchain** appears to be a good compromise for being a core technology of Arcadia. Using blockchain implies being able to correctly define the underlying **cryptoeconomics** of the project: a [mechanism design](https://www.coindesk.com/making-sense-cryptoeconomics/) that include a set of incentives that allows all the parties to exploit the system at their own advantage without harming anybody else or the system.
 
@@ -145,30 +145,42 @@ We have identified four key modules for Arcadia to exist: DATA WAREHOUSE, DIGITA
 
 #### The data warehouse
 
-1. Uploading data
-2. Storing data
-3. Using data
+* The Data Warehouse covers the **data management** of Arcadia, from the moment users upload data to the moment users grant other users or developers access to it.
+* It is a **private space** for the user to store and access his data.
+* The availability and reliability of the service should not rely on trusting a third party, but rather on a **decentralised infrastructure** where incentives exist to always maintain the service live, regardless of the value or the sensitivity of the data stored.
+* Trust in the infrastructure, privacy around personal data and control over permissions will be core values of the Data Warehouse and by extension of Arcadia. It is paramount to show that, whether working directly or indirectly with personal data, these values are always ensured.
 
-#### Your digital profile
-
-1. From raw data to personality
-2. Data visualisation
-3. Data does not leave your profile
+More detailed information about the requirements for this module can be found here: https://github.com/in-dato-veritas/arcadia/blob/master/data-warehouse.md
 
 #### The knowledge machine
 
-1. Players, roles and interactions
-2. Working with personal data
-3. Characteristics as building blocks
-4. The ground truth
+* The Knowledge Machine establishes **a way for users and developers to collaborate together** so that raw data from the users are converted into knowledge usable by other users and companies.
+* There exist **built-in incentives** for user to upload data and for developers to extract value from it.
+* Their must exist a way for users to **share their data with developers** without revealing information about themselves, and for developers to **share their algorithms with everyone** without loosing their intellectual property rights.
+* The Knowledge Machine should also **produce outputs that have consistent meaning** for every users so that they can be used in different contexts without being prone to misunderstanding or manipulation.
+* To improve upon algorithms that produce the outputs of the Knowledge Machine, ground truths should be used extensively. **Mechanisms to establish the ground truth and compare different algorithms** will therefore be required.
 
-#### The foundations of the underlying economics
+More detailed information about the requirements for this module can be found here: https://github.com/in-dato-veritas/arcadia/blob/master/knowledge-machine.md
 
-1. Why using cryptocurrencies?
-2. Quality over quantity
-3. Put a price on your data
+#### Your digital profile
 
-### How to build a digital profile
+* The Digital Profile module describes how to **build a digital profile** for the user based on the raw data he uploaded to the Data Warehouse.
+* For users to interact with their digital profile in a human readable format, intuitive **data visualisation** will be required.
+* The Digital Profile is also the place from which the user should be able to **get information about his data** in terms of economic value, interest from developers, offers to use it from companies, offers to collaborate, results achieved, etc.
+* The Digital Profile module should handle the functionality of **sharing the digital profile** with other users, developers or companies. Users should be allowed to specify the terms and conditions whereby they agree to share their digital profile, as well as to whom, for how long, etc.
+
+More detailed information about the requirements for this module can be found here: https://github.com/in-dato-veritas/arcadia/blob/master/digital-profile.md
+
+#### The underlying economics
+
+* Arcadia should be **financially self-sustainable**, which means that no profits are generated based on the use of data and everything else –apart from operational expenses– is redistributed to users, developers and companies that maintain, use and improve Arcadia.
+* A **new digital economy based on data** should emerge and make new services available like job offers for users, services offered by clients directly to users, research programs for users and developers to enrol, etc.
+* The built-in economic model should **create virtuous circles** where participants benefit from the activity other participants and by doing so make Arcadia better for everyone.
+* It should also be possible to accelerate the **social innovation through decentralisation** and obtain a broader perspective on societies and how they work.
+
+More detailed information about the requirements for this module can be found here: https://github.com/in-dato-veritas/arcadia/blob/master/economics.md
+
+### How to build a digital profile?
 
 To build someone's profile is to make a statement about who you think that person is to you, not necessarily who that person really is. Leaving to the user the task of building his profile entirely is also problematic, as we rarely are objective about ourselves. In a decentralised infrastructure like Arcadia, we can bring the two together:
 
@@ -183,7 +195,7 @@ A key element of the digital profile for Arcadia is going to be the **characteri
 
 Characteristics are elements with a one level of abstraction from the data. They don't say much but they say enough for them to be used in different contexts. This means that characteristics must be representative of the population of users. To verify that this is actually the case, users should have a way to recognise the validity (or the non validity) of one particular characteristic. Examples of characteristics are: risk aversion, distribution of values, work balance in life, etc.
 
-> Looking at one of her characteristics, users should feel like they are looking in the mirror and recognise an aspect of their appearance. It should be that familiar.
+> Looking at one of their characteristics, users should feel like they are looking in the mirror and recognise an aspect of their appearance. It should be that familiar.
 
 Characteristics are self-explanatory: they include not only the data, but also the context in which the data has been generated, the interpretation of developers and the validation of the users. Characteristics should therefore be what users may want to share. The data that feeds into a characteristic will never leave the user's data warehouse.
 
