@@ -1,4 +1,4 @@
-*Arcadia should be built on top of four key modules: Data Warehouse, Knowledge Machine, Digital Profile, and Economics. The Digital Profile is a way for the user to visualise and manage the data stored in his data warehouse in a human readable format.*
+*Arcadia should be built on top of four key modules: Data Warehouse, Knowledge Machine, Digital Profile and Underlying Economics. The Digital Profile is a way for the user to visualise and manage the data stored in his data warehouse in a human readable format.*
 
 # Purpose
 

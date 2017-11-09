@@ -1,4 +1,4 @@
-*Arcadia should be built on top of four key modules: Data Warehouse, Knowledge Machine, Digital Profile, and Economics. Economics is a layer of logic that defines how money is going to flow within Arcadia.*
+*Arcadia should be built on top of four key modules: Data Warehouse, Knowledge Machine, Digital Profile and Underlying Economics. The Underlying Economics is a layer of logic that defines how money is going to flow within Arcadia.*
 
 # Purpose
 

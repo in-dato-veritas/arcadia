@@ -1,4 +1,4 @@
-*Arcadia should be built on top of four key modules: Data Warehouse, Knowledge Machine, Digital Profile, and Economics. The Data Warehouse is going to enable all the functionalities Arcadia will have.*
+*Arcadia should be built on top of four key modules: Data Warehouse, Knowledge Machine, Digital Profile and Underlying Economics. The Data Warehouse is going to enable all the functionalities Arcadia will have.*
 
 # Purpose
 

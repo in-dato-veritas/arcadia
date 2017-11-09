@@ -1,4 +1,4 @@
-*Arcadia should be built on top of four key modules: Data Warehouse, Knowledge Machine, Digital Profile, and Economics. The Knowledge Machine allows all the participants to work together in order build knowledge on top of quality data previously uploaded by the users.*
+*Arcadia should be built on top of four key modules: Data Warehouse, Knowledge Machine, Digital Profile and Underlying Economics. The Knowledge Machine allows all the participants to work together in order build knowledge on top of quality data previously uploaded by the users.*
 
 # Purpose
 
