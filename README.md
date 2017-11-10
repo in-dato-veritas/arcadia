@@ -18,11 +18,11 @@ With the new infrastructure, a new digital economy of services based on personal
 
 # Go deeper into Arcadia
 
-To get a general overview of the concepts behind Arcadia, we recommend to start by reading though the [Public Reach Out](https://github.com/in-dato-veritas/arcadia/blob/master/public-reach-out.md) document.
+To get a general overview of the concepts behind Arcadia, we recommend to start by reading though the [Public Reach Out](https://github.com/in-dato-veritas/arcadia/blob/master/modules/public-reach-out.md) document.
 
 To start building the four key modules Arcadia will sit on, a list of expected requirements and functionalities has been laid down in four separate files. As progress is made, these will be turned into formal specifications.
 
-* The [Data Warehouse](https://github.com/in-dato-veritas/arcadia/blob/master/data-warehouse.md) is about how data is uploaded and stored.
-* The [Knowledge Machine](https://github.com/in-dato-veritas/arcadia/blob/master/knowledge-machine.md) is about extracting knowledge from the data.
-* The [Digital Profile](https://github.com/in-dato-veritas/arcadia/blob/master/digital-profile.md) is about visualising and sharing the data.
-* The [Underlying Economics](https://github.com/in-dato-veritas/arcadia/blob/master/underlying-economics.md) is about pricing the data and building the new digital economy.
+* The [Data Warehouse](https://github.com/in-dato-veritas/arcadia/blob/master/modules/data-warehouse.md) is about how data is uploaded and stored.
+* The [Knowledge Machine](https://github.com/in-dato-veritas/arcadia/blob/master/modules/knowledge-machine.md) is about extracting knowledge from the data.
+* The [Digital Profile](https://github.com/in-dato-veritas/arcadia/blob/master/modules/digital-profile.md) is about visualising and sharing the data.
+* The [Underlying Economics](https://github.com/in-dato-veritas/arcadia/blob/master/modules/underlying-economics.md) is about pricing the data and building the new digital economy.
