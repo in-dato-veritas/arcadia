@@ -18,7 +18,7 @@ With the new infrastructure, a new digital economy of services based on personal
 
 # Go deeper into Arcadia
 
-To get a general overview of the concepts behind Arcadia, we recommend to start by reading though the [Public Reach Out](https://github.com/in-dato-veritas/arcadia/blob/master/modules/public-reach-out.md) document.
+To get a general overview of the concepts behind Arcadia, we recommend to start by reading though the [Public Reach Out](https://github.com/in-dato-veritas/arcadia/blob/master/public-reach-out.md) document.
 
 To start building the four key modules Arcadia will sit on, a list of expected requirements and functionalities has been laid down in four separate files. As progress is made, these will be turned into formal specifications.
 
