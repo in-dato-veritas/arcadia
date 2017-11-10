@@ -25,4 +25,4 @@ To start building the four key modules Arcadia will sit on, a list of expected r
 * The [Data Warehouse](https://github.com/in-dato-veritas/arcadia/blob/master/data-warehouse.md) is about how data is uploaded and stored.
 * The [Knowledge Machine](https://github.com/in-dato-veritas/arcadia/blob/master/knowledge-machine.md) is about extracting knowledge from the data.
 * The [Digital Profile](https://github.com/in-dato-veritas/arcadia/blob/master/digital-profile.md) is about visualising and sharing the data.
-* The [Underlying Economics](https://github.com/in-dato-veritas/arcadia/blob/master/economics.md) is about pricing the data and building the new digital economy.
+* The [Underlying Economics](https://github.com/in-dato-veritas/arcadia/blob/master/underlying-economics.md) is about pricing the data and building the new digital economy.

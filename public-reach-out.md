@@ -178,7 +178,7 @@ More detailed information about the requirements for this module can be found he
 * The built-in economic model should **create virtuous circles** where participants benefit from the activity other participants and by doing so make Arcadia better for everyone.
 * It should also be possible to accelerate the **social innovation through decentralisation** and obtain a broader perspective on societies and how they work.
 
-More detailed information about the requirements for this module can be found here: https://github.com/in-dato-veritas/arcadia/blob/master/economics.md
+More detailed information about the requirements for this module can be found here: https://github.com/in-dato-veritas/arcadia/blob/master/underlying-economics.md
 
 ### How to build a digital profile?
 
