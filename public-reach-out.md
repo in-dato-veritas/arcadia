@@ -150,7 +150,7 @@ We have identified four key modules for Arcadia to exist: DATA WAREHOUSE, DIGITA
 * The availability and reliability of the service should not rely on trusting a third party, but rather on a **decentralised infrastructure** where incentives exist to always maintain the service live, regardless of the value or the sensitivity of the data stored.
 * Trust in the infrastructure, privacy around personal data and control over permissions will be core values of the Data Warehouse and by extension of Arcadia. It is paramount to show that, whether working directly or indirectly with personal data, these values are always ensured.
 
-More detailed information about the requirements for this module can be found here: https://github.com/in-dato-veritas/arcadia/blob/master/modules/data-warehouse.md
+More detailed information about the requirements for this module can be found [here](https://github.com/in-dato-veritas/arcadia/blob/master/modules/data-warehouse.md)
 
 #### The knowledge machine
 
@@ -160,7 +160,7 @@ More detailed information about the requirements for this module can be found he
 * The Knowledge Machine should also **produce outputs that have consistent meaning** for every users so that they can be used in different contexts without being prone to misunderstanding or manipulation.
 * To improve upon algorithms that produce the outputs of the Knowledge Machine, ground truths should be used extensively. **Mechanisms to establish the ground truth and compare different algorithms** will therefore be required.
 
-More detailed information about the requirements for this module can be found here: https://github.com/in-dato-veritas/arcadia/blob/master/modules/knowledge-machine.md
+More detailed information about the requirements for this module can be found [here](https://github.com/in-dato-veritas/arcadia/blob/master/modules/knowledge-machine.md)
 
 #### Your digital profile
 
@@ -169,7 +169,7 @@ More detailed information about the requirements for this module can be found he
 * The Digital Profile is also the place from which the user should be able to **get information about his data** in terms of economic value, interest from developers, offers to use it from companies, offers to collaborate, results achieved, etc.
 * The Digital Profile module should handle the functionality of **sharing the digital profile** with other users, developers or companies. Users should be allowed to specify the terms and conditions whereby they agree to share their digital profile, as well as to whom, for how long, etc.
 
-More detailed information about the requirements for this module can be found here: https://github.com/in-dato-veritas/arcadia/blob/master/modules/digital-profile.md
+More detailed information about the requirements for this module can be found [here](https://github.com/in-dato-veritas/arcadia/blob/master/modules/digital-profile.md)
 
 #### The underlying economics
 
@@ -178,7 +178,7 @@ More detailed information about the requirements for this module can be found he
 * The built-in economic model should **create virtuous circles** where participants benefit from the activity other participants and by doing so make Arcadia better for everyone.
 * It should also be possible to accelerate the **social innovation through decentralisation** and obtain a broader perspective on societies and how they work.
 
-More detailed information about the requirements for this module can be found here: https://github.com/in-dato-veritas/arcadia/blob/master/modules/underlying-economics.md
+More detailed information about the requirements for this module can be found [here](https://github.com/in-dato-veritas/arcadia/blob/master/modules/underlying-economics.md)
 
 ### How to build a digital profile?
 
