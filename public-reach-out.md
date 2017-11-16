@@ -2,7 +2,7 @@
 
 **Laurent Hardy** | **Rubén Muñoz**
 
-*This is not meant to be an exhaustive technical explanation but a way to start a conversation about the project with the community about how personal data is controlled, what it is used for, how it could shorter the path towards self consciousness and how it could revive the digital economy for the people of the 21st century.*
+*This document is not meant to be an exhaustive technical explanation but a way to start a conversation about the project with the community about how personal data is controlled, what it is used for, how it could shorter the path towards self consciousness and how it could revive the digital economy for the people of the 21st century.*
 
 ## The problem
 
