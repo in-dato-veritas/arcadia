@@ -4,17 +4,17 @@ You can contact us at hello@seemplr.com
 
 # Why do we need Arcadia?
 
-Arcadia is an open source infrastructure meant to control your personal data, learn from it, and put it to work.
+Arcadia is an **open source public infrastructure** meant to privately control your personal data, learn from it, and put it to work. It is the first step necessary for the creation of a **new digital economy**. It can be considered new because it relies on **core values** that are substantially different from what we are used to when we think about digital technologies.
 
 # How is Arcadia built?
 
-Arcadia has the potential to put users in control of their personal data. It should allow each user to have access to a personal data warehouse. Each data warehouse will have the possibility to share its content to specific user or group of users and for specific reasons.
+Arcadia has the potential to put users in control of their personal data. It should allow each user to have access to a personal **data warehouse**. Each data warehouse will have the possibility to share its content to specific user or group of users and for specific reasons.
 
-As data doesn't leave Arcadia, economic incentives should be designed for developers to extract value from the data without actually being able to access the data. This will also benefit the users as they will get access to new knowledge about themselves through their data.
+As data doesn't leave Arcadia, **economic incentives** should be designed for developers to extract value from the data without actually being able to access the data. This will also benefit the users as they will get access to new knowledge about themselves through their data.
 
 # What to do with Arcadia?
 
-With the new infrastructure, a new digital economy of services based on personal data can be envisioned. An economy not necessarily based on money transfer and more on the exchange of knowledge. An economy that can help to get to a higher level of self consciousness as well as to a fair collaboration between users, developers, companies and clients.
+With the new infrastructure, a **new digital economy** of services based on personal data can be envisioned. An economy not necessarily based on money transfer but also on the exchange of knowledge. An economy that can help to get to a higher level of self consciousness and to facilitate a fair collaboration between users, developers, companies and clients.
 
 # Go deeper into Arcadia
 
