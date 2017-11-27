@@ -14,7 +14,7 @@ As data doesn't leave Arcadia, **economic incentives** should be designed for de
 
 # What to do with Arcadia?
 
-With the new infrastructure, a **new digital economy** of services based on personal data can be envisioned. An economy not necessarily based on money transfer but also on the exchange of knowledge. An economy that can help to get to a higher level of self consciousness and to facilitate a fair collaboration between users, developers, companies and clients.
+With the new infrastructure, a **new digital economy** of services based on personal data can be envisioned. An economy not necessarily based on money transfer but also on the exchange of knowledge. An economy that can help to get to a higher level of self consciousness and to facilitate a fair collaboration between users, developers, institutions and clients.
 
 # Go deeper into Arcadia
 
