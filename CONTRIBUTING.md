@@ -6,11 +6,13 @@
 
 You can see in the [open issues](https://github.com/in-dato-veritas/arcadia/issues) what are the documents that need work. Use the **labels** to identify what you can handle. When you're done proofreading a document, please create a new branch and name it `label-your-name` to do a pull request.
 
-If you feel like improving the content of one of the documents, please create a new branch to do a pull request.
+If you feel like **improving the content** of one of the documents, please create a new branch to do a pull request.
+
+If there is something we have completely missed or that doesn't make sense at all, please [open a new issue](https://github.com/in-dato-veritas/arcadia/issues) and assign the label `question` to it.
 
 # Make a suggestion about how to build Arcadia
 
-At the moment, the [four modules of Arcadia](https://github.com/in-dato-veritas/arcadia/tree/master/modules) are lists of requirements and functionalities that we believe will be necessary in order to build Arcadia. If you want to work on the technical stuff, this is how to do it:
+At the moment, the [four modules of Arcadia](https://github.com/in-dato-veritas/arcadia/tree/master/modules) are lists of requirements and functionalities that we believe will be necessary in order to build Arcadia. If you want to **work on the technical stuff**, this is how to do it:
 
 1. You can update the list of requirements and functionalities that you believe are missing, or change the already existing requirement or functionality that you believe could be better defined.
 2. You can propose a way to do it by adding a description of how it can be done. Please provide some references if you can and examples if there are any.
