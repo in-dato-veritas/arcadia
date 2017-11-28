@@ -31,4 +31,4 @@ To build Arcadia, a list of expected requirements and functionalities has been l
 
 # Get involved
 
-Thanks for your interest in contributing! There are many ways to contribute to this project. Get started [here](https://github.com/in-dato-veritas/arcadia/blob/master/.github/CONTRIBUTING.md). You will find where we need your help and how you can do it.
+Thanks for your interest in contributing! There are many ways to contribute to this project. Get started [here](https://github.com/in-dato-veritas/arcadia/blob/master/CONTRIBUTING.md). You will find where we need your help and how you can do it.
