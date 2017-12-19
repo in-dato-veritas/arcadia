@@ -2,7 +2,7 @@
 
 # Purpose
 
-The Knowledge Machine establishes **a way for users and developers to collaborate together** so that raw data from the users are converted into knowledge usable by other users and companies. There exist **built-in incentives** for user to upload data and for developers to extract value from it. In doing so, Arcadia's core values of trust, privacy and control must be remain enforced at all time. Therefore, their must exist a way for users to **share their data with developers** without revealing information about themselves, and for developers to **share their algorithms with everyone** without loosing their intellectual property rights. The Knowledge Machine should also **produce outputs that have consistent meaning** for every users so that they can be used in different contexts without being prone to misunderstanding or manipulation. To improve upon algorithms that produce the outputs of the Knowledge Machine, ground truths should be used extensively. **Mechanisms to establish the ground truth and compare different algorithms** will therefore be required.
+The Knowledge Machine establishes **a way for users and developers to collaborate together** so that raw data from the users are converted into knowledge usable by other users and institutions. There exist **built-in incentives** for user to upload data and for developers to extract value from it. In doing so, Arcadia's core values of trust, privacy and control must be remain enforced at all time. Therefore, their must exist a way for users to **share their data with developers** without revealing information about themselves, and for developers to **share their algorithms with everyone** without loosing their intellectual property rights. The Knowledge Machine should also **produce outputs that have consistent meaning** for every users so that they can be used in different contexts without being prone to misunderstanding or manipulation. To improve upon algorithms that produce the outputs of the Knowledge Machine, ground truths should be used extensively. **Mechanisms to establish the ground truth and compare different algorithms** will therefore be required.
 
 # Incentives for building the digital profile
 
@@ -27,7 +27,7 @@ If there is no incentives to upload data and no incentives to extract value from
 * Users who upload bad data will see their `reputation score` decrease, up to a point where they might be excluded from some services. This means they could potentially stop earning for the use of their profile.
 * Users can vote on an algorithm submitted by a developer and by doing do, express how good (or bad) it reflects their personality.
 * Developers can affect users' `reputation score` if they detect problems in the data they upload.
-* Clients can vote on the service they paid for, therefore affecting companies' `reputation score`.
+* Clients can vote on the service they paid for, therefore affecting institutions' `reputation score`.
 * Special `reputation points` can be earned when e.g participating as volunteers in academic projects.
 
 # Working with personal data
@@ -46,7 +46,7 @@ Developers extract knowledge from the data uploaded by the user. The results or 
 Characteristics are elements with a one level of abstraction from the data (i.e variables). They do not say much but they say enough for them to be used in different contexts without loosing the meaning they had when they were defined.
 
 * A characteristic should be representative of a population of users.
-* Developers are responsible of discovering characteristics but users should agree on the meaning they have to them in order for characteristics to be valid in Arcadia and used in services by companies.
+* Developers are responsible of discovering characteristics but users should agree on the meaning they have to them in order for characteristics to be valid in Arcadia and used in services by institutions.
 
 Characteristics are composed of at least 4 parameters:
 

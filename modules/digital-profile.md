@@ -2,7 +2,7 @@
 
 # Purpose
 
-The Digital Profile module describes how to **build a digital profile** for the user based on the raw data he uploaded to the Data Warehouse. For users to interact with their digital profile in a human readable format, good **data visualisation** is going to be specified in this module. The Digital Profile is also the place from which the user should be able to **get information about his data** in terms of economic value, interest from developers, offers to use it from companies, offers to collaborate, results achieved, etc. Finally, the Digital Profile module should handle the functionality of **sharing the digital profile** with other users, developers or companies. Users should be allowed to specify the terms and conditions whereby they agree to share their digital profile, as well as to whom, for how long, etc.
+The Digital Profile module describes how to **build a digital profile** for the user based on the raw data he uploaded to the Data Warehouse. For users to interact with their digital profile in a human readable format, good **data visualisation** is going to be specified in this module. The Digital Profile is also the place from which the user should be able to **get information about his data** in terms of economic value, interest from developers, offers to use it from institutions, offers to collaborate, results achieved, etc. Finally, the Digital Profile module should handle the functionality of **sharing the digital profile** with other users, developers or institutions. Users should be allowed to specify the terms and conditions whereby they agree to share their digital profile, as well as to whom, for how long, etc.
 
 # Constituents
 
@@ -22,7 +22,7 @@ Where each step is another level of abstraction from the raw data itself and the
 
 * Economic value of the data
 * Interest from developers to work the data
-* Offers from companies to use the data
+* Offers from institutions to use the data
 * Offers from other users to collaborate on a projects
 * Results that were achieved thanks to the data (like research projects)
 
