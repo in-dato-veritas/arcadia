@@ -42,6 +42,8 @@ Arcadia will be economically self-sustainable because part of the economic activ
 
 The major macroeconomic effect of Arcadia's new digital economy is the creation of an open digital space where jobs are created, interactions are promoted, meritocracy rules, money is not always the end goal and most importantly: it is choice-based. Individuals choose the appropriate amount of involvement in the digital economy they feel comfortable with according to their own prerogatives as well as the set of incentives proposed to them.
 
+~ ~ ~ ~
+
 *Thanks to @axion69 for editing this introduction and for his valuable support.*
 
 # Go deeper into Arcadia
