@@ -8,7 +8,7 @@
 
 ### Data is not worth much
 
-Generally speaking, the digital economy works by building applications on top of protocols that belong to the public domain that are free. This is what led the internet to evolve from what is called *web1* to *web2*, with the addition of a social layer.
+Generally, the digital economy works by building applications on top of protocols that belong to the public domain that are free. This is what led the internet to evolve from what is called *web1* to *web2*, with the addition of a social layer.
 
 This leap forward didn't come for free: *web2* was built by companies. The way the social layer was developed as a business but remained accessible for everyone to join for free was by creating a market around personal data. Users don't have access to that market, only the platform that owns the data. This remains the case today, as almost every digital platform eventually starts making profits by exploiting some sort of data market.
 
