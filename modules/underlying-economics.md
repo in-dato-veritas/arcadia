@@ -2,7 +2,7 @@
 
 # Purpose
 
-Arcadia should be **financially self-sustainable**, which means that no profits are generated based on the use of data and everything else –apart from operational expenses– is redistributed to users, developers and institutions that maintain, use and improve Arcadia. A **new digital economy based on data** should emerge and make new services available like job offers for users, services offered by clients directly to users, research programs for users and developers to enrol, etc. The built-in economic model should **create virtuous circles** where participants benefit from the activity other participants and by doing so make Arcadia better for everyone. It should also be possible to accelerate the **social innovation through decentralisation** and obtain a broader perspective on societies and how they work.
+Arcadia should be **financially self-sustainable**, which means that no profits are generated based on the use of data and everything else –apart from operational expenses– is redistributed to users, developers and companies that maintain, use and improve Arcadia. A **new digital economy based on data** should emerge and make new services available like job offers for users, services offered by clients directly to users, research programs for users and developers to enrol, etc. The built-in economic model should **create virtuous circles** where participants benefit from the activity other participants and by doing so make Arcadia better for everyone. It should also be possible to accelerate the **social innovation through decentralisation** and obtain a broader perspective on societies and how they work.
 
 # Why using cryptocurrencies?
 
@@ -29,7 +29,7 @@ What tokens could be used:
 
 Things to consider to define the behaviour of the `price characteristic` parameter:
 
-* Define a single unit of measurement for what will be exchanged between users and institutions, i.e the price of a characteristic should respond to a standardised valuation algorithm.
+* Define a single unit of measurement for what will be exchanged between users and companies, i.e the price of a characteristic should respond to a standardised valuation algorithm.
 * Any algorithm should pass a test based on a `validation process` to ensure a minimum quality for every characteristic.
 * Quality should be valued over quantity: a characteristic should be available to use after its representativeness of the population of users in Arcadia has been validated by `statistical tests`.
 * Characteristics don't have a fixed price but rather a minimum and a maximum price, each one depending on several factors.

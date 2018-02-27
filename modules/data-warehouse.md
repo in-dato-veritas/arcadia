@@ -6,7 +6,7 @@ The Data Warehouse covers the **data management** of Arcadia, from the moment us
 
 # Preconditions
 
-Users, developers and institutions should be able to trust and check –if they so wish– that the material found in Arcadia is truly authentic, meaning that:
+Users, developers and companies should be able to trust and check –if they so wish– that the material found in Arcadia is truly authentic, meaning that:
 
 * The data uploaded by the user is actually his.
 * A user who accesses information about a group of users should be certain that he is using real data about real users and that the data is representative of the users it is coming from.
