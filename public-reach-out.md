@@ -122,11 +122,11 @@ In this new paradigm, it is fundamental to understand that **data is not scarce 
 
 To develop the core technologies, we are going to need a clean environment exempt from pressures originating from the necessity to be profitable. This is a challenge most open source projects endure, but with the advent of [blockchain](http://www.usv.com/blog/fat-protocols), a solution is starting to emerge. That being said, we cannot forget that the objective is to build the pillars of a new digital economy for personal data, therefore we cannot forget that it has to be profitable at some point.
 
-For this reason, we have divided the project into two separate entities: Arcadia (a foundation, non-for profit) and Seemplr (a company, for profit).
+For this reason, we have divided the project into two separate entities: Arcadia (a foundation, non-for profit) and AlterEgo (a company, for profit).
 * **Arcadia FOUNDATION** will be responsible of developing the core technology, Arcadia, including but not limited to the digital warehouse infrastructure, the governance model, the economic model and the intelligence infrastructure.
-* **Seemplr** will be responsible of experimenting with tools that Arcadia will make available. At some point, Seemplr should be a profitable business, providing services for the new digital economy for personal data and proving that it is not only possible but that it has also be sustainable in economic terms.
+* **AlterEgo** will be responsible of experimenting with tools that Arcadia will make available. At some point, AlterEgo should be a profitable business, providing services for the new digital economy for personal data and proving that it is not only possible but that it has also be sustainable in economic terms.
 
-At this stage, we're going to focus on Arcadia, the first product built by Seemplr. Information regarding value propositions for Seemplr will be published later. For now, keep in mind that when we talk about *institutions*, we basically refer to Seemplr or the like.
+At this stage, we're going to focus on Arcadia, the first product built by AlterEgo. Information regarding value propositions for AlterEgo will be published later. For now, keep in mind that when we talk about *institutions*, we basically refer to AlterEgo or the like.
 
 We have identified 4 types of actors who will participate and interact with Arcadia. Each one of them, in its own way, will make Arcadia interesting, attracting, valuable and profitable.
 
