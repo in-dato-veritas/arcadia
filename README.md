@@ -46,7 +46,7 @@ The major macroeconomic effect of Arcadia's new digital economy is the creation 
 
 # Go deeper into Arcadia
 
-To get a general overview of the concepts behind Arcadia, we recommend to start by reading our [Public Reach Out](https://github.com/in-dato-veritas/arcadia/blob/master/public-reach-out.md).
+To get a general overview of the concepts behind Arcadia, we recommend to start by reading our [Public Reach Out](https://github.com/in-dato-veritas/arcadia/blob/master/public-reach-out.md). If you are interested in the economic aspects of Arcadia, consider reading the [New Digital Economy](https://github.com/in-dato-veritas/arcadia/blob/master/new-digital-economy.md).
 
 To build Arcadia, a list of expected requirements and functionalities has been laid down in four separate files. As progress is made, these list will be turned into a formal specification type of files.
 

@@ -213,6 +213,8 @@ Quality of the data is far more important than the quantity. Therefore the incen
 
 Services developed by *institutions* will be able to plug into Arcadia and make use of the knowledge provided though characteristics. The same way users will be required to validate characteristics, the services offered by *institutions* must appeal to the users in order to be sold to *clients* because the user will have to approve that her characteristics are used in this service. Meaning that the user is in control over how her data is used to build new knowledge, and even though she can decide not to share anything with anyone, she'll have incentives to do so: to gain new knowledge and earn money.
 
+So how do we envision the new digital economy is going to work? An in depth analysis of the requirements for the economy of Arcadia can be found [here](https://github.com/in-dato-veritas/arcadia/blob/master/new-digital-economy.md). 
+
 ### A workflow for value creation
 
 Governance defines a set of rules and parameters for all the parties involved to collaborate. Those rules and parameters can be voted on if they need to be adjusted in the future, or they are defined only once if they are considered ground rules. In the context of decentralised blockchain applications, governance is also the place where economic incentives are adjusted so that the participants can exploit the system at their own advantage without putting others or the system at risk.
